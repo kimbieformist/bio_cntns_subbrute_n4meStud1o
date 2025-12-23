@@ -10,7 +10,7 @@ on:
 
 env:
   # CHANGE THIS TO YOUR TARGET DOMAIN
-  TARGET_DOMAIN: "verisign.com" 
+  TARGET_DOMAIN: "namestudio.com" 
   DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
 
 jobs:
